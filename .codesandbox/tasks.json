@@ -11,6 +11,15 @@
     "npm start": {
       "name": "npm start",
       "command": "npm start"
+    },
+    "npm test": {
+      "name": "npm test",
+      "command": "npm test"
+    },
+    "npm install --save-dev @cucumber/cucumber": {
+      "name": "npm install --save-dev @cucumber/cucumber",
+      "command": "npm install --save-dev @cucumber/cucumber",
+      "runAtStart": true
     }
   }
 }
