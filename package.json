@@ -1,0 +1,20 @@
+{
+  "name": "scrum-team-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/tamusil-cen55253/scrum-team-2"
+  },
+  "keywords": [],
+  "author": "Tadeáš Musil",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.3"
+  }
+}
