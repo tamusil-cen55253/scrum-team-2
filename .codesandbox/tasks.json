@@ -11,6 +11,10 @@
     "npm start": {
       "name": "npm start",
       "command": "npm start"
+    },
+    "npm test": {
+      "name": "npm test",
+      "command": "npm test"
     }
   }
 }
